@@ -1,0 +1,35 @@
+GIT
+  remote: https://github.com/thinkAmi-sandbox/hello_file_writer_ruby
+  revision: 4ab2b64231ec38091b20b9fe6c8597e50cc70952
+  branch: main
+  specs:
+    hello_file_writer (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ruby_wasm (2.7.0)
+    ruby_wasm (2.7.0-aarch64-linux)
+    ruby_wasm (2.7.0-aarch64-linux-musl)
+    ruby_wasm (2.7.0-arm64-darwin)
+    ruby_wasm (2.7.0-x86_64-darwin)
+    ruby_wasm (2.7.0-x86_64-linux)
+    ruby_wasm (2.7.0-x86_64-linux-musl)
+    thinkami_hello_file_writer (0.1.0)
+
+PLATFORMS
+  aarch64-linux
+  aarch64-linux-musl
+  arm64-darwin
+  ruby
+  x86_64-darwin
+  x86_64-linux
+  x86_64-linux-musl
+
+DEPENDENCIES
+  hello_file_writer!
+  ruby_wasm (~> 2.7)
+  thinkami_hello_file_writer
+
+BUNDLED WITH
+   2.5.22
