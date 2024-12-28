@@ -21,3 +21,5 @@ file write examples by ruby.wasm
   - Used for switching between ruby and wasmtime
 
 ## Related Blog (Written in Japanese)
+
+- [ruby.wasmにてRubyスクリプトをWASM化し、Wasmtimeで動かしてみた - メモ的な思考的な](https://thinkami.hatenablog.com/entry/2024/12/28/231213)
